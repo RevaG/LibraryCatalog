@@ -1,0 +1,9 @@
+StrengthsFinder 2.0,Tom Rath,234
+Lean In,Sheryl Sandberg,152
+Inferno,Dan Brown,324
+The Great Gatsby,F. Scott Fitzgerald,398
+Jesus Calling,Sarah Young,129
+Proof of Heaven,Eben Alexander,174
+The Official SAT Study Guide,The College Board,456
+Diagnostic and Statistical Manual,American Psychiatric Association,1543
+Oh the Places You'll Go!,Dr. Seuss,24
